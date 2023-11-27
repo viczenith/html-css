@@ -1,0 +1,4 @@
+Bootstrap is a frontend framework for web development.
+1. it uses CDN - content delivery network
+2. Bootstrap interacts with the html documents, or it is used inside an html document.
+3. 
